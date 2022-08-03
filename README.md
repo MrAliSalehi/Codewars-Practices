@@ -20,3 +20,8 @@ Feel Free To Open A PR. Just Follow The Structure of Repo;
 `Each File Should Name After Kata's Name`
 
 `Kata Source File Should Contain The Actual-Kata Link In comments`
+
+
+### To-do : 
+
+**Just Train More Kata's**
