@@ -1,8 +1,4 @@
-#Lua
-
-[CodeWars](https://www.codewars.com) Practices Writen In <b>[Lua](https://www.lua.org)</b>
-
-Source Of Each Kata Contains Kata's Link.
+# Lua
 
 1. [Count characters in your string](https://github.com/MrAliSalehi/Codewars-Practices/blob/main/Lua/Kata/Kata-1.lua)
 2. [Mumbling](https://github.com/MrAliSalehi/Codewars-Practices/blob/master/Kata/Kata-2.lua)
