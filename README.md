@@ -8,6 +8,7 @@ Codwars Practices And Solutions.
 
 #### [Lua](https://github.com/MrAliSalehi/Codewars-Practices/tree/main/Lua)
 
+#### [FSharp](https://github.com/MrAliSalehi/Codewars-Practices/tree/main/FSharp)
 
 ### Contribute
 
